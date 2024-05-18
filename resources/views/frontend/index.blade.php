@@ -74,7 +74,7 @@
         <!-- Menu For Mobile Device -->
         <div class="mobile-nav">
             <a href="index.html" class="logo">
-                <img src="assets/img/logo-four.png" alt="Logo">
+                <img src="assets/img/logo-nestventuresltd.png" alt="Logo">
             </a>
         </div>
 
@@ -83,7 +83,7 @@
             <div class="container">
                 <nav class="navbar navbar-expand-md navbar-light">
                     <a class="navbar-brand" href="index.html">
-                        <img src="assets/img/logo-three.png" alt="Logo">
+                        <img src="assets/img/logo-nestventuresltd.png" alt="Logo">
                     </a>
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                         <ul class="navbar-nav">
@@ -816,7 +816,7 @@
                     <div class="footer-item">
                         <div class="footer-logo">
                             <a class="logo" href="index.html">
-                                <img src="assets/img/logo-four.png" alt="Logo">
+                                <img src="assets/img/logo-nestventuresltd.png" alt="Logo">
                             </a>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                                 ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices </p>
