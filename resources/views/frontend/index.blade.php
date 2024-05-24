@@ -159,11 +159,9 @@
                     <div class="d-table-cell">
                         <div class="container">
                             <div class="banner-content">
-                                <span>Your Financial Status Is Good Hands</span>
-                                <h1>Finon Will Give Business Opportunity</h1>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. ipsum suspendisse ultrices gravida.
-                                    Risus commodo </p>
+                                <span>Your Partner in Entrepreneurial Success</span>
+                                <h1>Innovate, Invest, and Grow with NEST</h1>
+                                <p>At NEST, we empower entrepreneurs to reach their goals with comprehensive training, expert consultancy, strategic networking, and valuable investment opportunities. Partner with us to transform your vision into reality and elevate your business to new heights.</p>
                                 <div class="banner-btn-area">
                                     <a class="common-btn two" href="contact.html">
                                         Contact Us
@@ -189,25 +187,19 @@
                     <div class="about-content">
                         <div class="section-title two">
                             <span class="sub-title">About Company</span>
-                            <h2>We Help Our Clients To Achieve Their Desire Goals</h2>
+                            <h2>We Help Entrepreneurs To Achieve Their Desire Goals</h2>
                         </div>
-                        <p class="about-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                            tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.
-                            Risus commodo viverra </p>
+                        <p class="about-p">At NEST, we empower entrepreneurs to achieve their desired goals through comprehensive training, expert consultancy, strategic networking, and valuable investment opportunities. Join us to turn your vision into reality and take your business to the next level.</p>
                         <ul>
                             <li>
                                 <i class="flaticon-bar-chart"></i>
-                                <h3>Support On Raising Funds</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                    gravida. Risus commodo </p>
+                                <h3>Investment Support</h3>
+                                <p>NEST Ventures Limited offers impact investment to new entrepreneurs and SMEs, fueling their growth and success. We provide the financial support needed to transform innovative ideas into thriving businesses, making a positive impact on the community and economy. Partner with us to turn your entrepreneurial vision into reality.</p>
                             </li>
                             <li>
                                 <i class="flaticon-consulting"></i>
-                                <h3>Outsourced Consult Business</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                    gravida. Risus commodo </p>
+                                <h3>Business Consultancy Support</h3>
+                                <p>NEST Ventures Limited offers expert business consultancy to new entrepreneurs and SMEs, guiding you through every step of your business journey. Our tailored advice and strategies help you overcome challenges and achieve sustainable growth. Partner with us for the expertise you need to succeed.</p>
                             </li>
                         </ul>
                         <a class="common-btn two" href="about.html">
@@ -235,8 +227,8 @@
     <section class="projects-area pt-100 pb-70">
         <div class="container">
             <div class="section-title two">
-                <span class="sub-title">Latest Projects</span>
-                <h2>We Have Completed Latest Projects</h2>
+                <span class="sub-title">Empowering Diverse Industries</span>
+                <h2>NEST Ventures Fuels Growth and Innovation</h2>
             </div>
             <div class="row">
 
@@ -245,9 +237,9 @@
                         <img src="assets/img/projects/projects1.jpg" alt="Projects">
                         <div class="inner">
                             <h3>
-                                <a href="project-details.html">Investment Trading</a>
+                                <a href="project-details.html">Technology (Robotics & AI)</a>
                             </h3>
-                            <a class="projects-btn" href="#">Trading</a>
+                            <a class="projects-btn" href="#">Apply Now</a>
                         </div>
                     </div>
                 </div>
@@ -257,9 +249,9 @@
                         <img src="assets/img/projects/projects2.jpg" alt="Projects">
                         <div class="inner">
                             <h3>
-                                <a href="project-details.html">Financial Growth</a>
+                                <a href="project-details.html">Green Production</a>
                             </h3>
-                            <a class="projects-btn" href="#">Finance</a>
+                            <a class="projects-btn" href="#">Apply Now</a>
                         </div>
                     </div>
                 </div>
@@ -269,9 +261,9 @@
                         <img src="assets/img/projects/projects3.jpg" alt="Projects">
                         <div class="inner">
                             <h3>
-                                <a href="project-details.html">Fund Management</a>
+                                <a href="project-details.html">Manufacturing</a>
                             </h3>
-                            <a class="projects-btn" href="#">Management</a>
+                            <a class="projects-btn" href="#">Apply Now</a>
                         </div>
                     </div>
                 </div>
@@ -281,9 +273,9 @@
                         <img src="assets/img/projects/projects4.jpg" alt="Projects">
                         <div class="inner">
                             <h3>
-                                <a href="project-details.html">Online Payment</a>
+                                <a href="project-details.html">Service</a>
                             </h3>
-                            <a class="projects-btn" href="#">Payment</a>
+                            <a class="projects-btn" href="#">Apply Now</a>
                         </div>
                     </div>
                 </div>
@@ -298,7 +290,7 @@
         <div class="container">
             <div class="section-title two">
                 <span class="sub-title">Services</span>
-                <h2>Exceptional Finon Services</h2>
+                <h2>Exceptional NEST Services</h2>
             </div>
             <div class="row">
 
@@ -309,9 +301,9 @@
                         </div>
                         <div class="bottom">
                             <h3>
-                                <a href="service-details.html">Invest Planning</a>
+                                <a href="service-details.html">Financial Support & Consultancy</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo</p>
+                            <p>Choose NEST for expert financial support and consultancy designed specifically for SMEs and new entrepreneurs. We offer customized advice and strategic planning to help you build a strong financial foundation and drive your business forward. Partner with NEST to turn your entrepreneurial vision into reality.</p>
                             <div class="services-btn">
                                 <i class='bx bx-right-arrow-alt'></i>
                                 <a href="service-details.html">Read More</a>
@@ -327,9 +319,9 @@
                         </div>
                         <div class="bottom">
                             <h3>
-                                <a href="service-details.html">Financial Consultancy</a>
+                                <a href="service-details.html">Mentorship & Guidance</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo</p>
+                            <p>Discover expert mentorship and tailored guidance for SMEs and new entrepreneurs with NEST. Our dedicated team offers personalized strategies and insights to navigate challenges and unlock opportunities. Trust NEST to be your ally on the path to business success.</p>
                             <div class="services-btn">
                                 <i class='bx bx-right-arrow-alt'></i>
                                 <a href="service-details.html">Read More</a>
@@ -345,9 +337,9 @@
                         </div>
                         <div class="bottom">
                             <h3>
-                                <a href="service-details.html">Online Banking & Loans</a>
+                                <a href="service-details.html">Business Plan & Strategy</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo</p>
+                            <p>NEST specializes in providing comprehensive support for SMEs and new entrepreneurs in formulating effective business plans and strategies. With our proven expertise and hands-on approach, we empower you to chart a clear path towards your business goals. Partner with NEST to turn your vision into a strategic reality.</p>
                             <div class="services-btn">
                                 <i class='bx bx-right-arrow-alt'></i>
                                 <a href="service-details.html">Read More</a>
@@ -363,9 +355,9 @@
                         </div>
                         <div class="bottom">
                             <h3>
-                                <a href="service-details.html">Travel Insurance</a>
+                                <a href="service-details.html">Marketing & Branding Assistance</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo</p>
+                            <p>NEST provides expert marketing and branding assistance to SMEs and new entrepreneurs, helping you build a strong brand identity and effectively reach your audience. With our personalized strategies and innovative approaches, we empower you to differentiate your business and achieve marketing success. Partner with NEST to elevate your brand to new heights.</p>
                             <div class="services-btn">
                                 <i class='bx bx-right-arrow-alt'></i>
                                 <a href="service-details.html">Read More</a>
@@ -381,9 +373,9 @@
                         </div>
                         <div class="bottom">
                             <h3>
-                                <a href="service-details.html">Business Advisor</a>
+                                <a href="service-details.html">Networking Opportunities</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo</p>
+                            <p>Elevate your business connections with NEST's exclusive networking opportunities designed for SMEs and new entrepreneurs. From industry meetups to networking events, our platform facilitates meaningful connections with like-minded professionals and potential partners. Join NEST and expand your network to propel your business forward.</p>
                             <div class="services-btn">
                                 <i class='bx bx-right-arrow-alt'></i>
                                 <a href="service-details.html">Read More</a>
@@ -399,9 +391,45 @@
                         </div>
                         <div class="bottom">
                             <h3>
-                                <a href="service-details.html">Education Support</a>
+                                <a href="service-details.html">Technology Support</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo</p>
+                            <p>NEST offers comprehensive technology support tailored for SMEs and new entrepreneurs, empowering you with the tools and resources to thrive in the digital age. From IT infrastructure to software solutions, our expert team provides personalized assistance to help you harness technology for business success. Trust NEST to be your partner in leveraging technology to drive innovation and efficiency.</p>
+                            <div class="services-btn">
+                                <i class='bx bx-right-arrow-alt'></i>
+                                <a href="service-details.html">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-4">
+                    <div class="services-item-two">
+                        <div class="top">
+                            <img src="assets/img/services/services6.jpg" alt="Services">
+                        </div>
+                        <div class="bottom">
+                            <h3>
+                                <a href="service-details.html">Legal Support</a>
+                            </h3>
+                            <p>Transform your business with NEST's legal support tailored specifically for SMEs and new entrepreneurs. Our experienced attorneys offer practical solutions and strategic advice to help you overcome legal hurdles and achieve your business goals. With NEST by your side, you can navigate the complexities of the legal system with ease and focus on building a successful enterprise.</p>
+                            <div class="services-btn">
+                                <i class='bx bx-right-arrow-alt'></i>
+                                <a href="service-details.html">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-4">
+                    <div class="services-item-two">
+                        <div class="top">
+                            <img src="assets/img/services/services6.jpg" alt="Services">
+                        </div>
+                        <div class="bottom">
+                            <h3>
+                                <a href="service-details.html">Emotional Support</a>
+                            </h3>
+                            <p>NEST goes beyond business support by offering empathetic emotional support for SMEs and new entrepreneurs. Our compassionate team provides a safe space to share your concerns and offers encouragement to help you overcome obstacles with resilience. With NEST, you're not just building a business; you're fostering your mental strength for enduring success.</p>
                             <div class="services-btn">
                                 <i class='bx bx-right-arrow-alt'></i>
                                 <a href="service-details.html">Read More</a>
