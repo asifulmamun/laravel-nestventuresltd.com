@@ -447,8 +447,8 @@
     <section class="projects-area-two pt-100 pb-70">
         <div class="container">
             <div class="section-title two">
-                <span class="sub-title">Projects</span>
-                <h2>Our Completed Projects</h2>
+                <span class="sub-title">Strength</span>
+                <h2>Empowering Your Business with NEST</h2>
             </div>
             <div class="row">
 
