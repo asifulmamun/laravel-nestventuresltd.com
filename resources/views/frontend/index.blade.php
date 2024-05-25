@@ -23,15 +23,12 @@
                         <ul>
                             <li>
                                 <i class='bx bx-location-plus'></i>
-                                <a href="#">
-                                    504 White St . Dawsonville, New York
-                                </a>
+                                <a href="#">House 10, Main Road, Block C, Banasree, Rampura, Dhaka 1219</a>
                             </li>
                             <li>
                                 <i class='bx bx-mail-send'></i>
-                                <a href="/cdn-cgi/l/email-protection#79111c151516391f10171617571a1614"><span
-                                        class="__cf_email__"
-                                        data-cfemail="a3cbc6cfcfcce3c5cacdcccd8dc0ccce">[email&#160;protected]</span></a>
+                                <a href="mailto:info@nestventuresltd.com"><span
+                                        class="__cf_email__" {{-- data-cfemail="a3cbc6cfcfcce3c5cacdcccd8dc0ccce" --}}>info@nestventuresltd.com</span></a>
                             </li>
                         </ul>
                     </div>
@@ -73,8 +70,8 @@
     <div class="navbar-area sticky-top">
         <!-- Menu For Mobile Device -->
         <div class="mobile-nav">
-            <a href="index.html" class="logo">
-                <img src="assets/img/logo-nestventuresltd.png" alt="Logo">
+            <a href="{{ route('home') }}" class="logo">
+                <img src="assets/img/logo-nestventuresltd-mobile.png" alt="Logo">
             </a>
         </div>
 
@@ -82,7 +79,7 @@
         <div class="main-nav two">
             <div class="container">
                 <nav class="navbar navbar-expand-md navbar-light">
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="{{ route('home') }}">
                         <img src="assets/img/logo-nestventuresltd.png" alt="Logo">
                     </a>
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -211,10 +208,10 @@
 
                 <div class="col-lg-6">
                     <div class="about-img">
-                        <img src="assets/img/about/about4.jpg" alt="About">
-                        <img src="assets/img/about/about-shape6.png" alt="Shape">
-                        <img src="assets/img/about/about-shape7.png" alt="Shape">
-                        <img src="assets/img/about/about-shape8.png" alt="Shape">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/about/about4.jpg" alt="About">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/about/about-shape6.png" alt="Shape">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/about/about-shape7.png" alt="Shape">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/about/about-shape8.png" alt="Shape">
                     </div>
                 </div>
 
@@ -234,7 +231,7 @@
 
                 <div class="col-sm-6 col-lg-3">
                     <div class="projects-item">
-                        <img src="assets/img/projects/projects1.jpg" alt="Projects">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/projects1.jpg" alt="Projects">
                         <div class="inner">
                             <h3>
                                 <a href="project-details.html">Technology (Robotics & AI)</a>
@@ -246,7 +243,7 @@
 
                 <div class="col-sm-6 col-lg-3">
                     <div class="projects-item">
-                        <img src="assets/img/projects/projects2.jpg" alt="Projects">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/projects2.jpg" alt="Projects">
                         <div class="inner">
                             <h3>
                                 <a href="project-details.html">Green Production</a>
@@ -258,7 +255,7 @@
 
                 <div class="col-sm-6 col-lg-3">
                     <div class="projects-item">
-                        <img src="assets/img/projects/projects3.jpg" alt="Projects">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/projects3.jpg" alt="Projects">
                         <div class="inner">
                             <h3>
                                 <a href="project-details.html">Manufacturing</a>
@@ -270,7 +267,7 @@
 
                 <div class="col-sm-6 col-lg-3">
                     <div class="projects-item">
-                        <img src="assets/img/projects/projects4.jpg" alt="Projects">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/projects4.jpg" alt="Projects">
                         <div class="inner">
                             <h3>
                                 <a href="project-details.html">Service</a>
@@ -297,7 +294,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="services-item-two">
                         <div class="top">
-                            <img src="assets/img/services/services1.jpg" alt="Services">
+                            <img src="https://templates.envytheme.com/finon/default/assets/img/services/services1.jpg" alt="Services">
                         </div>
                         <div class="bottom">
                             <h3>
@@ -315,7 +312,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="services-item-two">
                         <div class="top">
-                            <img src="assets/img/services/services2.jpg" alt="Services">
+                            <img src="https://templates.envytheme.com/finon/default/assets/img/services/services2.jpg" alt="Services">
                         </div>
                         <div class="bottom">
                             <h3>
@@ -333,7 +330,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="services-item-two">
                         <div class="top">
-                            <img src="assets/img/services/services3.jpg" alt="Services">
+                            <img src="https://templates.envytheme.com/finon/default/assets/img/services/services3.jpg" alt="Services">
                         </div>
                         <div class="bottom">
                             <h3>
@@ -351,7 +348,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="services-item-two">
                         <div class="top">
-                            <img src="assets/img/services/services4.jpg" alt="Services">
+                            <img src="https://templates.envytheme.com/finon/default/assets/img/services/services4.jpg" alt="Services">
                         </div>
                         <div class="bottom">
                             <h3>
@@ -369,7 +366,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="services-item-two">
                         <div class="top">
-                            <img src="assets/img/services/services5.jpg" alt="Services">
+                            <img src="https://templates.envytheme.com/finon/default/assets/img/services/services5.jpg" alt="Services">
                         </div>
                         <div class="bottom">
                             <h3>
@@ -387,7 +384,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="services-item-two">
                         <div class="top">
-                            <img src="assets/img/services/services6.jpg" alt="Services">
+                            <img src="https://templates.envytheme.com/finon/default/assets/img/services/services6.jpg" alt="Services">
                         </div>
                         <div class="bottom">
                             <h3>
@@ -405,7 +402,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="services-item-two">
                         <div class="top">
-                            <img src="assets/img/services/services6.jpg" alt="Services">
+                            <img src="https://templates.envytheme.com/finon/default/assets/img/services/services6.jpg" alt="Services">
                         </div>
                         <div class="bottom">
                             <h3>
@@ -423,7 +420,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="services-item-two">
                         <div class="top">
-                            <img src="assets/img/services/services6.jpg" alt="Services">
+                            <img src="https://templates.envytheme.com/finon/default/assets/img/services/services6.jpg" alt="Services">
                         </div>
                         <div class="bottom">
                             <h3>
@@ -454,8 +451,8 @@
 
                 <div class="col-sm-6 col-lg-3">
                     <div class="projects-item-two">
-                        <img src="assets/img/projects/project-shape1.png" alt="Shape">
-                        <img src="assets/img/projects/project-shape2.png" alt="Shape">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/project-shape1.png" alt="Shape">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/project-shape2.png" alt="Shape">
                         <i class="flaticon-goal icon"></i>
                         <h3>
                             <a href="project-details.html">Fast Executions</a>
@@ -470,8 +467,8 @@
 
                 <div class="col-sm-6 col-lg-3">
                     <div class="projects-item-two">
-                        <img src="assets/img/projects/project-shape1.png" alt="Shape">
-                        <img src="assets/img/projects/project-shape2.png" alt="Shape">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/project-shape1.png" alt="Shape">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/project-shape2.png" alt="Shape">
                         <i class="flaticon-support icon"></i>
                         <h3>
                             <a href="project-details.html">Guide & Support</a>
@@ -486,8 +483,8 @@
 
                 <div class="col-sm-6 col-lg-3">
                     <div class="projects-item-two">
-                        <img src="assets/img/projects/project-shape1.png" alt="Shape">
-                        <img src="assets/img/projects/project-shape2.png" alt="Shape">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/project-shape1.png" alt="Shape">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/project-shape2.png" alt="Shape">
                         <i class="flaticon-investment-insurance icon"></i>
                         <h3>
                             <a href="project-details.html">Financial Secure</a>
@@ -502,8 +499,8 @@
 
                 <div class="col-sm-6 col-lg-3">
                     <div class="projects-item-two">
-                        <img src="assets/img/projects/project-shape1.png" alt="Shape">
-                        <img src="assets/img/projects/project-shape2.png" alt="Shape">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/project-shape1.png" alt="Shape">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/project-shape2.png" alt="Shape">
                         <i class="flaticon-refinancing icon"></i>
                         <h3>
                             <a href="project-details.html">Refinancing</a>
@@ -526,8 +523,8 @@
         <div class="container">
             <div class="counter-wrap">
                 <div class="counter-shape">
-                    <img src="assets/img/counter-shape1.png" alt="Shape">
-                    <img src="assets/img/counter-shape2.png" alt="Shape">
+                    <img src="https://templates.envytheme.com/finon/default/assets/img/counter-shape1.png" alt="Shape">
+                    <img src="https://templates.envytheme.com/finon/default/assets/img/counter-shape2.png" alt="Shape">
                 </div>
                 <div class="row">
 
@@ -601,8 +598,8 @@
 
                 <div class="col-lg-6">
                     <div class="works-img">
-                        <img src="assets/img/works-shape1.png" alt="Shape">
-                        <img src="assets/img/works-main.png" alt="Works">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/works-shape1.png" alt="Shape">
+                        <img src="https://templates.envytheme.com/finon/default/assets/img/works-main.png" alt="Works">
                     </div>
                 </div>
 
@@ -672,8 +669,8 @@
         <div class="container">
             <div class="book-content">
                 <div class="book-shape">
-                    <img src="assets/img/book-shape3.png" alt="Shape">
-                    <img src="assets/img/book-shape4.png" alt="Shape">
+                    <img src="https://templates.envytheme.com/finon/default/assets/img/book-shape3.png" alt="Shape">
+                    <img src="https://templates.envytheme.com/finon/default/assets/img/book-shape4.png" alt="Shape">
                 </div>
                 <h2>Are You Ready? Book Appointment Now</h2>
                 <p>Get your Quote or Call <a href="tel:+8809696232337">(096) 96232337</a>, <a href="tel:+8801913511188">(880) 1913 511 188</a></p>
@@ -695,7 +692,7 @@
 
                 <div class="testimonials-item">
                     <h2>NEST has been an invaluable partner in our entrepreneurial journey. Beyond providing the financial backing we needed, their consultancy and additional support were crucial in shaping our business strategy and navigating challenges along the way. They truly go above and beyond to ensure their clients' success</h2>
-                    {{-- <img src="assets/img/testimonials-thumb1.jpg" alt="Testimonials"> --}}
+                    {{-- <img src="https://templates.envytheme.com/finon/default/assets/img/testimonials-thumb1.jpg" alt="Testimonials"> --}}
                     {{-- <h3>Aliza Trupa</h3>
                     <span>CEO of Finance & Banking</span>
                     <i class='bx bxs-quote-alt-left bx-flip-horizontal'></i> --}}
@@ -751,7 +748,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="blog-item">
                         <div class="top">
-                            <img src="assets/img/blog/blog1.jpg" alt="Blog">
+                            <img src="https://templates.envytheme.com/finon/default/assets/img/blog/blog1.jpg" alt="Blog">
                         </div>
                         <div class="bottom">
                             <ul>
@@ -778,7 +775,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="blog-item">
                         <div class="top">
-                            <img src="assets/img/blog/blog2.jpg" alt="Blog">
+                            <img src="https://templates.envytheme.com/finon/default/assets/img/blog/blog2.jpg" alt="Blog">
                         </div>
                         <div class="bottom">
                             <ul>
@@ -804,7 +801,7 @@
                 <div class="col-sm-6 offset-sm-3 offset-lg-0 col-lg-4">
                     <div class="blog-item">
                         <div class="top">
-                            <img src="assets/img/blog/blog3.jpg" alt="Blog">
+                            <img src="https://templates.envytheme.com/finon/default/assets/img/blog/blog3.jpg" alt="Blog">
                         </div>
                         <div class="bottom">
                             <ul>
@@ -838,23 +835,23 @@
             <div class="logo-slider owl-theme owl-carousel">
 
                 <div class="logo-item">
-                    <img src="assets/img/logo/logo1.png" alt="Logo">
+                    <img src="https://templates.envytheme.com/finon/default/assets/img/logo/logo1.png" alt="Logo">
                 </div>
 
                 <div class="logo-item">
-                    <img src="assets/img/logo/logo2.png" alt="Logo">
+                    <img src="https://templates.envytheme.com/finon/default/assets/img/logo/logo2.png" alt="Logo">
                 </div>
 
                 <div class="logo-item">
-                    <img src="assets/img/logo/logo3.png" alt="Logo">
+                    <img src="https://templates.envytheme.com/finon/default/assets/img/logo/logo3.png" alt="Logo">
                 </div>
 
                 <div class="logo-item">
-                    <img src="assets/img/logo/logo4.png" alt="Logo">
+                    <img src="https://templates.envytheme.com/finon/default/assets/img/logo/logo4.png" alt="Logo">
                 </div>
 
                 <div class="logo-item">
-                    <img src="assets/img/logo/logo5.png" alt="Logo">
+                    <img src="https://templates.envytheme.com/finon/default/assets/img/logo/logo5.png" alt="Logo">
                 </div>
 
             </div>
@@ -873,25 +870,24 @@
                             <a class="logo" href="index.html">
                                 <img src="assets/img/logo-nestventuresltd.png" alt="Logo">
                             </a>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices </p>
+                            <p>At NEST, we empower entrepreneurs to reach their goals with comprehensive training, expert consultancy, strategic networking, and valuable investment opportunities. Partner with us to transform your vision into reality and elevate your business to new heights.p>
                             <ul>
                                 <li>
                                     <i class='bx bx-phone-call'></i>
                                     <span>Phone:</span>
-                                    <a href="tel:882569756">882-569-756</a>
+                                    <a href="tel:+8809696232337">(880) 9696 232 337</a>
+                                    <a href="tel:+8809696232337">(880) 1913 511 188</a>
                                 </li>
                                 <li>
                                     <i class='bx bx-mail-send'></i>
                                     <span>Email:</span>
-                                    <a href="/cdn-cgi/l/email-protection#4b232e2727240b2d2225242565282426"><span
-                                            class="__cf_email__"
-                                            data-cfemail="1b737e7777745b7d7275747535787476">[email&#160;protected]</span></a>
+                                    <a href="mailto:info@nestventuresltd.com"><span
+                                            class="__cf_email__"{{--  data-cfemail="1b737e7777745b7d7275747535787476" --}}>info@nestventuresltd.com</span></a>
                                 </li>
                                 <li>
                                     <i class='bx bx-current-location'></i>
                                     <span>Address:</span>
-                                    <a href="#">4578 Marmora Road, UK</a>
+                                    <a href="#">House 10, Main Road, Block C, Banasree, Rampura, Dhaka 1219</a>
                                 </li>
                             </ul>
                         </div>
@@ -982,7 +978,7 @@
     <div class="copyright-area two">
         <div class="container">
             <div class="copyright-item">
-                <p>Copyright ©2021 Finon. Designed By <a href="https://envytheme.com/" target="_blank">EnvyTheme</a>
+                <p>Copyright ©2021 Nest. Designed By <a title="Developer: www.asifulmamun.info.bd" href="https://easysheba.com/" target="_blank">EasySheba</a>
                 </p>
             </div>
         </div>
