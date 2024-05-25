@@ -423,7 +423,7 @@ ul {
 
 /*-- Banner --*/
 .banner-bg-one {
-  background-image: url("../img/banner/banner-bg1.jpg");
+  background-image: url("https://templates.envytheme.com/finon/default/assets/img/banner/banner-bg1.jpg");
 }
 
 .banner-area {
@@ -2249,11 +2249,11 @@ footer {
 
 /*-- Banner --*/
 .banner-bg-two {
-  background-image: url("../img/banner/banner-bg2.jpg");
+  background-image: url("https://templates.envytheme.com/finon/default/assets/img/banner/banner-bg2.jpg");
 }
 
 .banner-bg-three {
-  background-image: url("../img/banner/banner-bg3.jpg");
+  background-image: url("https://templates.envytheme.com/finon/default/assets/img/banner/banner-bg3.jpg");
 }
 
 .banner-area-two .banner-item {
@@ -2765,7 +2765,7 @@ footer {
 /*-- Video --*/
 .video-area {
   height: 620px;
-  background-image: url("../img/video-bg.jpg");
+  background-image: url("https://templates.envytheme.com/finon/default/assets/img/video-bg.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;

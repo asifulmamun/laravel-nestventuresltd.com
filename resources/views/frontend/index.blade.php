@@ -209,9 +209,9 @@
                 <div class="col-lg-6">
                     <div class="about-img">
                         <img src="https://templates.envytheme.com/finon/default/assets/img/about/about4.jpg" alt="About">
-                        <img src="https://templates.envytheme.com/finon/default/assets/img/about/about-shape6.png" alt="Shape">
-                        <img src="https://templates.envytheme.com/finon/default/assets/img/about/about-shape7.png" alt="Shape">
-                        <img src="https://templates.envytheme.com/finon/default/assets/img/about/about-shape8.png" alt="Shape">
+                        <img src="assets/img/about-shape6.png" alt="Shape">
+                        <img src="assets/img/about-shape7.png" alt="Shape">
+                        <img src="assets/img/about-shape8.png" alt="Shape">
                     </div>
                 </div>
 
@@ -451,7 +451,7 @@
 
                 <div class="col-sm-6 col-lg-3">
                     <div class="projects-item-two">
-                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/project-shape1.png" alt="Shape">
+                        <img src="assets/img/project-shape1.png" alt="Shape">
                         <img src="https://templates.envytheme.com/finon/default/assets/img/projects/project-shape2.png" alt="Shape">
                         <i class="flaticon-goal icon"></i>
                         <h3>
@@ -467,8 +467,8 @@
 
                 <div class="col-sm-6 col-lg-3">
                     <div class="projects-item-two">
-                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/project-shape1.png" alt="Shape">
-                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/project-shape2.png" alt="Shape">
+                        <img src="assets/img/project-shape1.png" alt="Shape">
+                        <img src="assets/img/project-shape2.png" alt="Shape">
                         <i class="flaticon-support icon"></i>
                         <h3>
                             <a href="project-details.html">Guide & Support</a>
@@ -483,8 +483,8 @@
 
                 <div class="col-sm-6 col-lg-3">
                     <div class="projects-item-two">
-                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/project-shape1.png" alt="Shape">
-                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/project-shape2.png" alt="Shape">
+                        <img src="assets/img/project-shape1.png" alt="Shape">
+                        <img src="assets/img/project-shape2.png" alt="Shape">
                         <i class="flaticon-investment-insurance icon"></i>
                         <h3>
                             <a href="project-details.html">Financial Secure</a>
@@ -499,8 +499,8 @@
 
                 <div class="col-sm-6 col-lg-3">
                     <div class="projects-item-two">
-                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/project-shape1.png" alt="Shape">
-                        <img src="https://templates.envytheme.com/finon/default/assets/img/projects/project-shape2.png" alt="Shape">
+                        <img src="assets/img/project-shape1.png" alt="Shape">
+                        <img src="assets/img/project-shape2.png" alt="Shape">
                         <i class="flaticon-refinancing icon"></i>
                         <h3>
                             <a href="project-details.html">Refinancing</a>
@@ -523,8 +523,8 @@
         <div class="container">
             <div class="counter-wrap">
                 <div class="counter-shape">
-                    <img src="https://templates.envytheme.com/finon/default/assets/img/counter-shape1.png" alt="Shape">
-                    <img src="https://templates.envytheme.com/finon/default/assets/img/counter-shape2.png" alt="Shape">
+                    <img src="assets/img/counter-shape1.png" alt="Shape">
+                    <img src="assets/img/counter-shape2.png" alt="Shape">
                 </div>
                 <div class="row">
 
@@ -669,8 +669,8 @@
         <div class="container">
             <div class="book-content">
                 <div class="book-shape">
-                    <img src="https://templates.envytheme.com/finon/default/assets/img/book-shape3.png" alt="Shape">
-                    <img src="https://templates.envytheme.com/finon/default/assets/img/book-shape4.png" alt="Shape">
+                    <img src="assets/img/book-shape3.png" alt="Shape">
+                    <img src="assets/img/book-shape4.png" alt="Shape">
                 </div>
                 <h2>Are You Ready? Book Appointment Now</h2>
                 <p>Get your Quote or Call <a href="tel:+8809696232337">(096) 96232337</a>, <a href="tel:+8801913511188">(880) 1913 511 188</a></p>

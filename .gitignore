@@ -34,7 +34,7 @@ docker-compose.override.yml
 **/*error
 public/error_log
 
-public/assets/img
+# public/assets/img
 public/uploads
 public/uploads/
 public/uploads/*
