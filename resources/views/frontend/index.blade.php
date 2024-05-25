@@ -460,7 +460,7 @@
                         <h3>
                             <a href="project-details.html">Fast Executions</a>
                         </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, eiusmod tempor facilisis.</p>
+                        <p>NEST specializes in the fast execution of investment support for SMEs and new entrepreneurs. With our streamlined processes and expert guidance, you can quickly secure the resources you need to fuel your business growth and stay ahead of the competition.</p>
                         <a class="projects-btn" href="project-details.html">
                             Read More
                             <i class='bx bx-right-arrow-alt'></i>
@@ -476,7 +476,7 @@
                         <h3>
                             <a href="project-details.html">Guide & Support</a>
                         </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, eiusmod tempor facilisis.</p>
+                        <p>NEST provides tailored guidance and support for SMEs and new entrepreneurs, assisting you every step of the way in your investment journey. Our experienced professionals are committed to helping you achieve your business goals with personalized strategies and expert advice.</p>
                         <a class="projects-btn" href="project-details.html">
                             Read More
                             <i class='bx bx-right-arrow-alt'></i>
@@ -492,7 +492,7 @@
                         <h3>
                             <a href="project-details.html">Financial Secure</a>
                         </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, eiusmod tempor facilisis.</p>
+                        <p>NEST provides robust investment support to SMEs and new entrepreneurs, prioritizing your financial security. With our personalized advice and strategic planning, we help you build a solid financial foundation for long-term success and peace of mind.</p>
                         <a class="projects-btn" href="project-details.html">
                             Read More
                             <i class='bx bx-right-arrow-alt'></i>
@@ -508,7 +508,7 @@
                         <h3>
                             <a href="project-details.html">Refinancing</a>
                         </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, eiusmod tempor facilisis.</p>
+                        <p>NEST specializes in providing refinancing support for SMEs and new entrepreneurs. Our dedicated team helps you restructure existing debt, improving cash flow and financial stability so you can focus on expanding your business with greater confidence.</p>
                         <a class="projects-btn" href="project-details.html">
                             Read More
                             <i class='bx bx-right-arrow-alt'></i>
@@ -531,27 +531,27 @@
                 </div>
                 <div class="row">
 
-                    <div class="col-6 col-sm-6 col-lg-3">
+                    <div class="col-6 col-sm-6 col-lg-4">
                         <div class="counter-item">
                             <i class="flaticon-project-management"></i>
                             <h3>
-                                <span class="odometer" data-count="3569">00</span>
+                                <span class="odometer" data-count="10000000">00</span>
                             </h3>
-                            <p>Projects Completed</p>
+                            <p>Financed</p>
                         </div>
                     </div>
 
-                    <div class="col-6 col-sm-6 col-lg-3">
+                    <div class="col-6 col-sm-6 col-lg-4">
                         <div class="counter-item">
                             <i class="flaticon-like"></i>
                             <h3>
-                                <span class="odometer" data-count="4269">00</span>
+                                <span class="odometer" data-count="15">00</span>
                             </h3>
-                            <p>Satisfied Clients</p>
+                            <p>Projects</p>
                         </div>
                     </div>
 
-                    <div class="col-6 col-sm-6 col-lg-3">
+                    {{-- <div class="col-6 col-sm-6 col-lg-3">
                         <div class="counter-item">
                             <i class="flaticon-trophy"></i>
                             <h3>
@@ -559,13 +559,13 @@
                             </h3>
                             <p>International Awards</p>
                         </div>
-                    </div>
+                    </div> --}}
 
-                    <div class="col-6 col-sm-6 col-lg-3">
+                    <div class="col-6 col-sm-6 col-lg-4">
                         <div class="counter-item right-border">
                             <i class="flaticon-team"></i>
                             <h3>
-                                <span class="odometer" data-count="3351">00</span>
+                                <span class="odometer" data-count="20">00</span>
                             </h3>
                             <p>Team Members</p>
                         </div>
@@ -610,28 +610,49 @@
                     <div class="works-content">
                         <div class="section-title two">
                             <span class="sub-title">Working Process</span>
-                            <h2>How Does It Works</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                labore dolore magna aliqua.</p>
+                            <h2>How Does NEST Work</h2>
+                            <p>These steps ensure a comprehensive and structured approach from the initial application to the final disbursement of investment funds, fostering a successful partnership between NEST and the business.</p>
                         </div>
                         <ul>
                             <li>
                                 <i class='bx bx-check'></i>
-                                <h3>Select Account & Terms</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua.</p>
+                                <h3>Application Submission</h3>
+                                <p>SMEs and entrepreneurs submit their investment application to NEST, including all required documents and financial statements</p>
                             </li>
                             <li>
                                 <i class='bx bx-check'></i>
-                                <h3>Inform Your Personal Information</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua.</p>
+                                <h3>Initial Assessment</h3>
+                                <p>NEST reviews the application to ensure it meets the basic eligibility criteria and gathers initial insights into the business's financial health and needs.</p>
                             </li>
                             <li>
                                 <i class='bx bx-check'></i>
-                                <h3>Get Improved In 24 Hours</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua.</p>
+                                <h3>Due Diligence</h3>
+                                <p>Conduct a thorough analysis of the applicant's financial status, business model, market position, and growth potential. This may include financial audits, market research, and risk assessment.</p>
+                            </li>
+                            <li>
+                                <i class='bx bx-check'></i>
+                                <h3>Proposal Development</h3>
+                                <p>Based on the due diligence findings, NEST develops a tailored investment proposal outlining the terms, conditions, and structure of the investment</p>
+                            </li>
+                            <li>
+                                <i class='bx bx-check'></i>
+                                <h3>Approval Process</h3>
+                                <p>The investment proposal is reviewed by NEST’s investment committee or relevant authority for final approval. This step may involve negotiations and adjustments based on feedback from both parties</p>
+                            </li>
+                            <li>
+                                <i class='bx bx-check'></i>
+                                <h3>Agreement Signing</h3>
+                                <p>Once approved, a formal investment agreement is drafted and signed by NEST and the applicant, detailing all terms, conditions, and responsibilities</p>
+                            </li>
+                            <li>
+                                <i class='bx bx-check'></i>
+                                <h3>Funds Disbursement</h3>
+                                <p>Upon agreement execution, NEST disburses the investment funds to the applicant. The disbursement process is managed efficiently to ensure timely availability of funds for the business’s needs.</p>
+                            </li>
+                            <li>
+                                <i class='bx bx-check'></i>
+                                <h3>Ongoing Monitoring and Support</h3>
+                                <p>After disbursement, NEST continues to monitor the investment, providing ongoing support and guidance to ensure the business achieves its growth objectives and meets the agreed-upon milestones.</p>
                             </li>
                         </ul>
                         <a class="common-btn two" href="#">
@@ -655,11 +676,9 @@
                     <img src="assets/img/book-shape4.png" alt="Shape">
                 </div>
                 <h2>Are You Ready? Book Appointment Now</h2>
-                <p>Get your Quote or Call <a href="tel:080569899563">(080) 569 899 563</a></p>
-                <a class="common-btn" href="#">
-                    Read More
-                    <span></span>
-                </a>
+                <p>Get your Quote or Call <a href="tel:+8809696232337">(096) 96232337</a>, <a href="tel:+8801913511188">(880) 1913 511 188</a></p>
+                <a class="common-btn" href="#">Apply as Investor<span></span></a>
+                <a class="common-btn" href="#">Apply for Investment<span></span></a>
             </div>
         </div>
     </div>
@@ -675,38 +694,46 @@
             <div class="testimonials-slider owl-theme owl-carousel">
 
                 <div class="testimonials-item">
-                    <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
-                        maecenas accumsan lacus vel facilisis. Lorem Ipsum is simply dummy text of the printing and
-                        typesetting industry. Lorem Ipsum </h2>
-                    <img src="assets/img/testimonials-thumb1.jpg" alt="Testimonials">
-                    <h3>Aliza Trupa</h3>
+                    <h2>NEST has been an invaluable partner in our entrepreneurial journey. Beyond providing the financial backing we needed, their consultancy and additional support were crucial in shaping our business strategy and navigating challenges along the way. They truly go above and beyond to ensure their clients' success</h2>
+                    {{-- <img src="assets/img/testimonials-thumb1.jpg" alt="Testimonials"> --}}
+                    {{-- <h3>Aliza Trupa</h3>
                     <span>CEO of Finance & Banking</span>
-                    <i class='bx bxs-quote-alt-left bx-flip-horizontal'></i>
+                    <i class='bx bxs-quote-alt-left bx-flip-horizontal'></i> --}}
                 </div>
-
+                
                 <div class="testimonials-item">
-                    <h2>It is a long established fact that a reader will be distracted by the readable content of a page
-                        when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal
-                        distribution of letters, as opposed to using 'Content here, content here', making it look like
-                        readable English</h2>
-                    <img src="assets/img/testimonials-thumb2.jpg" alt="Testimonials">
-                    <h3>Tom Henry</h3>
-                    <span>Director</span>
-                    <i class='bx bxs-quote-alt-left bx-flip-horizontal'></i>
+                    <h2>Starting a business can be overwhelming, but NEST's mental support services have been a lifeline. Their compassionate team offers not just financial investment but also emotional support, helping us stay motivated and resilient through tough times. NEST genuinely cares about our well-being and success.</h2>
                 </div>
-
                 <div class="testimonials-item">
-                    <h2>There are many variations of passages of Lorem Ipsum available, but the majority have suffered
-                        alteration in some form, by injected humour, or randomised words which don't look even slightly
-                        believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't
-                        anything embarrassing</h2>
-                    <img src="assets/img/testimonials-thumb3.jpg" alt="Testimonials">
-                    <h3>Micheal Shon</h3>
-                    <span>Manager</span>
-                    <i class='bx bxs-quote-alt-left bx-flip-horizontal'></i>
+                    <h2>NEST stands out as more than just an investment provider – they are genuine partners invested in our success. Their technology support has been crucial, helping us implement cutting-edge solutions that enhance our operational efficiency and competitive edge. We're grateful for their holistic approach to supporting entrepreneurs like us.</h2>
                 </div>
-
+                <div class="testimonials-item">
+                    <h2>NEST's networking support has opened doors we never thought possible. Their extensive network of industry contacts and curated events have connected us with potential partners and mentors who have been instrumental in our growth. With NEST, we feel part of a thriving entrepreneurial community.</h2>
+                </div>
+                <div class="testimonials-item">
+                    <h2>NEST's commitment to our success is evident through their comprehensive training support. The workshops and training programs they offer have equipped us with the skills and knowledge needed to navigate the business landscape effectively. Their investment in our development has been key to our progress</h2>
+                </div>
+                <div class="testimonials-item">
+                    <h2>NEST provides a unique blend of financial, consultancy, mental, technology, networking, and training support that has been pivotal for our SME. Their holistic approach ensures we have all the resources and guidance needed to thrive. Partnering with NEST has been a transformative experience for our business</h2>
+                </div>
+                <div class="testimonials-item">
+                    <h2>NEST provides a unique blend of financial, consultancy, mental, technology, networking, and training support that has been pivotal for our SME. Their holistic approach ensures we have all the resources and guidance needed to thrive. Partnering with NEST has been a transformative experience for our business</h2>
+                </div>
+                <div class="testimonials-item">
+                    <h2>NEST has been a phenomenal partner for our startup. They didn't just provide the financial backing we needed, but their consultancy, mental support, and technology assistance were game-changers for us. Their team was always there to offer guidance and encouragement, helping us stay motivated and focused. The tech support they provided ensured our operations ran smoothly and efficiently</h2>
+                </div>
+                <div class="testimonials-item">
+                    <h2>Partnering with NEST has been the best decision for our business. Their holistic approach to support goes beyond finance – their consultancy services helped us refine our business model, while their mental support kept our team resilient through tough times. The networking opportunities and training sessions they offered connected us with industry leaders and equipped us with the skills needed to thrive</h2>
+                </div>
+                <div class="testimonials-item">
+                    <h2>NEST truly understands the challenges faced by new entrepreneurs. They provided comprehensive support, from financial investment and expert consultancy to mental and emotional support, which was crucial for our well-being. Their technology support streamlined our operations, and the networking events introduced us to valuable industry contacts. The training programs offered were insightful and directly contributed to our growth</h2>
+                </div>
+                <div class="testimonials-item">
+                    <h2>NEST has been an all-encompassing support system for our SME. Beyond financial investment, their consultancy and mental support helped us navigate the stresses of entrepreneurship. Their technology support was instrumental in upgrading our systems, and the networking opportunities they provided opened doors to new partnerships. The training sessions were tailored to our needs, enhancing our team's capabilities</h2>
+                </div>
+                <div class="testimonials-item">
+                    <h2>NEST is more than just an investment provider – they are a partner in every sense. They offered not only the funds we needed but also essential consultancy, mental support, and technology assistance. Their networking events connected us with key industry players, and the training programs were invaluable in building our team's expertise. We couldn't have asked for a better ally in our business journey</h2>
+                </div>
             </div>
         </div>
     </section>
