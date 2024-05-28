@@ -1,7 +1,25 @@
 :root{
     --text_color: #000;
     --primary_color: #5e1716;
+    --secondary_color: #872120;
+    --text_white: #fff;
+    /* --secondary_color: var(--primary_color); */
 }
 
 /* Mobile Menu */
 .mean-container a.meanmenu-reveal span{background: var(--text_color);}
+
+/* Mobile */
+@media only screen and (max-width: 991px) {
+    .mean-container .mean-bar {
+        background-color: #ffffff;
+    }
+
+    .mobile-nav .logo {
+        top: 5px;
+    }
+
+    .side-nav {
+        padding-bottom: 4px;
+    }
+}

@@ -111,10 +111,10 @@
                                 <option>Português</option>
                             </select>
                         </div> --}}
-                            <a class="consultant-btn" href="#">
+                            <a class="consultant-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSdjPTkGtXlkLI_WG3Sd2sp135XObuunj_aw_3F4E8SCrtKsJA/viewform?usp=sf_link">
                                 Apply for Investment
                             </a>
-                            <a class="consultant-btn" href="#">
+                            <a class="consultant-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSd-uAweHxyxWVwspVksTLp32pEt2QIJJ2lHzz3WtAQwOA6zcg/viewform?usp=sf_link">
                                 Apply as Investor
                             </a>
                         </div>
