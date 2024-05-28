@@ -30,7 +30,8 @@
         <link rel="stylesheet" href="assets/css/responsive.css">
         @stack('css')
         <!-- Override -->
-        @vite(['resources/css/app.css'])
+        <link rel="stylesheet" href="assets/css/override.css">
+        {{-- @vite(['resources/css/app.css']) --}}
 
         <title>@yield('title')</title>
         <link rel="icon" type="image/png" href="assets/img/favicon.png">
@@ -67,7 +68,8 @@
         <script src="assets/js/custom.js"></script>
         @stack('js')
         <!-- Override -->
-        @vite(['resources/js/app.js'])
+        {{-- @vite(['resources/js/app.js']) --}}
+        {{-- <script src="assets/js/override.js"></script> --}}
 
     </body>
 </html>
