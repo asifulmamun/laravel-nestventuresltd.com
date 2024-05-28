@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+:root{
+    --text_color: #000;
+    --primary_color: #5e1716;
+}
+
+/* Mobile Menu */
+.mean-container a.meanmenu-reveal span{background: var(--text_color);}

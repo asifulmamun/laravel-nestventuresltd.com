@@ -71,7 +71,7 @@
         <!-- Menu For Mobile Device -->
         <div class="mobile-nav">
             <a href="{{ route('home') }}" class="logo">
-                <img src="assets/img/logo-nestventuresltd-mobile.png" alt="Logo">
+                <img src="assets/img/logo-nestventuresltd.png" alt="Logo">
             </a>
         </div>
 

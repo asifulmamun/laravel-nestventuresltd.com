@@ -28,9 +28,11 @@
         <link rel="stylesheet" href="assets/css/style.css">
         <!-- Responsive CSS -->
         <link rel="stylesheet" href="assets/css/responsive.css">
-        
-        <title>@yield('title')</title>
+        @stack('css')
+        <!-- Override -->
+        @vite(['resources/css/app.css'])
 
+        <title>@yield('title')</title>
         <link rel="icon" type="image/png" href="assets/img/favicon.png">
     </head>
     <body>
@@ -63,5 +65,9 @@
         <script src="assets/js/jquery.magnific-popup.min.js"></script>
         <!-- Custom JS -->
         <script src="assets/js/custom.js"></script>
+        @stack('js')
+        <!-- Override -->
+        @vite(['resources/js/app.js'])
+
     </body>
 </html>
