@@ -736,8 +736,7 @@
     </section>
     <!-- End Testimonials -->
 
-    <!-- Blog -->
-    <section class="blog-area two pt-100 pb-70">
+    {{--<section class="blog-area two pt-100 pb-70">
         <div class="container">
             <div class="section-title two">
                 <span class="sub-title">Latest News</span>
@@ -826,8 +825,7 @@
 
             </div>
         </div>
-    </section>
-    <!-- End Blog -->
+    </section>--}}
 
     <!-- Logo -->
     <div class="logo-area ptb-100">
