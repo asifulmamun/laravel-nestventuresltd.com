@@ -446,6 +446,7 @@
             </div>
         </div>
     </div>
+    @push('internal_css')<style>@media only screen and (max-width: 991px) {.counter-item h3{font-size:1.8rem;}}</style>@endpush
     <!-- End Counter -->
 
     <!-- Video -->

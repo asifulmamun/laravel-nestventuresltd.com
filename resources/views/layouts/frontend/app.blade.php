@@ -100,6 +100,7 @@
         </div>
     </div>
 </div>
+<style>.header-area .left:hover a,.header-area .left:hover i{color:var(--text_color)!important;}.mean-container a.meanmenu-reveal span{background:var(--text_color);}@media only screen and (max-width: 991px){.mean-container .mean-bar{background-color:#ffffff;}}</style>
 <!-- End Header -->
 
 <!-- Navbar -->
@@ -159,6 +160,7 @@
         </div>
     </div>
 </div>
+<style>@media only screen and (max-width: 991px){.mobile-nav .logo{top:5px;}.side-nav{padding-bottom:4px;}}</style>
 <!-- End Navbar -->
 
 @yield('content')
