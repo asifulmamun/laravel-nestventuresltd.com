@@ -204,7 +204,7 @@
                         <h3>Quick Links</h3>
                         <ul>
                             <li>
-                                <a href="about.html">About</a>
+                                <a href="{{ route('about') }}">About</a>
                             </li>
                             <li>
                                 <a href="services.html">Services</a>
@@ -323,6 +323,7 @@
 <script src="assets/js/jquery.magnific-popup.min.js"></script>
 <!-- Custom JS -->
 <script src="assets/js/custom.js"></script>
+@stack('internal_css')
 @stack('js')
 <!-- Override -->
 {{-- @vite(['resources/js/app.js']) --}}

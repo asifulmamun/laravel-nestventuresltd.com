@@ -64,11 +64,11 @@
                 <div class="about-content">
                     <div class="section-title">
                         <span class="sub-title">About Company</span>
-                        <h2>We Help Our Clients To Achieve Their Desire Goals</h2>
+                        <h2>We Help Entrepreneurs To Achieve Their Desire Goals</h2>
                     </div>
                     <div class="middle">
-                        <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra </span>
-                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here.</p>
+                        <span>At NEST, we're dedicated to empowering entrepreneurs to achieve their goals. Through our comprehensive training programs and expert consultancy services, we equip you with the knowledge, skills, and strategic insights needed to navigate the challenges of entrepreneurship with confidence.</span>
+                        <p>Additionally, our strategic networking opportunities and valuable investment opportunities connect you with industry leaders and provide the funding necessary to fuel your business growth. With NEST by your side, you'll have the support and resources you need to turn your vision into reality and take your business to the next level.</p>
                     </div>
                     <div class="bottom">
                         <ul>
@@ -108,31 +108,71 @@
     <div class="container">
         <div class="section-title">
             <span class="sub-title">How It Works</span>
-            <h2>Get Your Loan In 3 Easy Steps</h2>
+            <h2>Get Your Investment In 8 Easy Steps</h2>
         </div>
         <div class="row justify-content-center">
 
             <div class="col-sm-6 col-lg-4">
                 <div class="works-item">
                     <i class="flaticon-accounting"></i>
-                    <h3><a href="#">Select Account & Terms</a></h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt   </p>
+                    <h3><a href="#">Application Submission</a></h3>
+                    <p>SMEs and entrepreneurs submit their investment application to NEST, including all required documents and financial statements.</p>
                 </div>
             </div>
 
             <div class="col-sm-6 col-lg-4">
                 <div class="works-item">
                     <i class="flaticon-personal-information"></i>
-                    <h3><a href="#">Enter Your Personal Information</a></h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt   </p>
+                    <h3><a href="#">Initial Assessment</a></h3>
+                    <p>NEST reviews the application to ensure it meets the basic eligibility criteria and gathers initial insights into the business's financial health and needs.</p>
                 </div>
             </div>
 
             <div class="col-sm-6 col-lg-4">
                 <div class="works-item">
                     <i class="flaticon-contract"></i>
-                    <h3><a href="#">Get Approved in 24 Hours</a></h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt   </p>
+                    <h3><a href="#">Due Diligence</a></h3>
+                    <p>Conduct a thorough analysis of the applicant's financial status, business model, market position, and growth potential. This may include financial audits, market research, and risk assessment.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-6 col-lg-4">
+                <div class="works-item">
+                    <i class="flaticon-contract"></i>
+                    <h3><a href="#">Proposal Development</a></h3>
+                    <p>Based on the due diligence findings, NEST develops a tailored investment proposal outlining the terms, conditions, and structure of the investment.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-6 col-lg-4">
+                <div class="works-item">
+                    <i class="flaticon-contract"></i>
+                    <h3><a href="#">Approval Process</a></h3>
+                    <p>The investment proposal is reviewed by NEST’s investment committee or relevant authority for final approval. This step may involve negotiations and adjustments based on feedback from both parties.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-6 col-lg-4">
+                <div class="works-item">
+                    <i class="flaticon-contract"></i>
+                    <h3><a href="#">Agreement Signing</a></h3>
+                    <p>Once approved, a formal investment agreement is drafted and signed by NEST and the applicant, detailing all terms, conditions, and responsibilities.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-6 col-lg-4">
+                <div class="works-item">
+                    <i class="flaticon-contract"></i>
+                    <h3><a href="#">Funds Disbursement</a></h3>
+                    <p>Upon agreement execution, NEST disburses the investment funds to the applicant. The disbursement process is managed efficiently to ensure timely availability of funds for the business’s needs.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-6 col-lg-4">
+                <div class="works-item">
+                    <i class="flaticon-contract"></i>
+                    <h3><a href="#">Ongoing Monitoring and Support</a></h3>
+                    <p>After disbursement, NEST continues to monitor the investment, providing ongoing support and guidance to ensure the business achieves its growth objectives and meets the agreed-upon milestones.</p>
                 </div>
             </div>
 
@@ -150,11 +190,9 @@
                 <img src="assets/img/book-shape2.png" alt="Shape">
             </div>
             <h2>Are You Ready? Book Appointment Now</h2>
-            <p>Get your Quote or Call <a href="tel:080569899563">(080) 569 899 563</a></p>
-            <a class="common-btn" href="#">
-                Read More
-                <span></span>
-            </a>
+            <p>Get your Quote or Call <a href="tel:+8809696232337">(096) 96232337</a>, <a href="tel:+8801913511188">(880) 1913 511 188</a></p>
+            <a target="_blank" class="common-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSd-uAweHxyxWVwspVksTLp32pEt2QIJJ2lHzz3WtAQwOA6zcg/viewform?usp=sf_link">Apply as Investor<span></span></a>
+            <a target="_blank" class="common-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSdjPTkGtXlkLI_WG3Sd2sp135XObuunj_aw_3F4E8SCrtKsJA/viewform?usp=sf_link">Apply for Investment<span></span></a>
         </div>
     </div>
 </div>
@@ -375,7 +413,6 @@
 <!-- Plan -->
 <div class="plan-area mb-100">
     <div class="container-fluid">
-
         <div class="plan-content">
             <div class="plan-shape">
                 <img src="assets/img/plan-shape1.png" alt="Shape">
@@ -384,31 +421,37 @@
             <div class="section-title">
                 <h2>We Have Experience For Financial Planning</h2>
             </div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidiunt  labore et dolore magna aliqua. Quis ipsum</p>
+            <p>NEST boasts extensive experience in financial planning, offering tailored solutions to entrepreneurs and SMEs. Our seasoned experts provide strategic insights to optimize resources, ensuring your business achieves its goals. From budgeting to investment analysis, trust NEST to secure your financial success.</p>
             <div class="skill-wrap">
                 <div class="skill">
                     <h3>Business Strategy</h3>
                     <div class="skill-bar skill1 wow fadeInLeftBig">
-                        <span class="skill-count1">75%</span>
+                        <span class="skill-count1">90%</span>
                     </div>
                 </div>
                 <div class="skill">
                     <h3>Financial Planning</h3>
                     <div class="skill-bar skill2 wow fadeInLeftBig">
-                        <span class="skill-count2">45%</span>
+                        <span class="skill-count2">85%</span>
                     </div>
                 </div>
                 <div class="skill">
                     <h3>Marketing Strategy</h3>
                     <div class="skill-bar skill3 wow fadeInLeftBig">
-                        <span class="skill-count3">80%</span>
+                        <span class="skill-count3">85%</span>
+                    </div>
+                </div>
+                <div class="skill">
+                    <h3>Marketing Strategy</h3>
+                    <div class="skill-bar skill4 wow fadeInLeftBig">
+                        <span class="skill-count4">80%</span>
                     </div>
                 </div>
             </div>
         </div>
-
     </div>
 </div>
+@push('internal_css')<style>.plan-area .plan-content .skill1 {width:90%;}.plan-area .plan-content .skill2 {width:85%;}.plan-area .plan-content .skill3 {width:85%;}.plan-area .plan-content .skill4 {width:80%;}.plan-area .plan-content .skill4 .skill-count4 {right:7px;}</style>@endpush
 <!-- End Plan -->
 
 <!-- FAQ -->
