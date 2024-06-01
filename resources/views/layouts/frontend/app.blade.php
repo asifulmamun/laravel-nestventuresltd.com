@@ -221,7 +221,7 @@
                                 <a href="blog.html">Blog</a>
                             </li>
                             <li>
-                                <a href="privacy-policy.html">Privacy Policy</a>
+                                <a href="{{ route('privacy_policy') }}">Privacy Policy</a>
                             </li>
                         </ul>
                     </div>

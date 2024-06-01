@@ -10,4 +10,10 @@ class PageController extends Controller
         
         return view('frontend.about');
     }
+    
+    
+    public function privacy_policy(){
+        
+        return view('frontend.privacy_policy');
+    }
 }

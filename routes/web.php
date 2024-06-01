@@ -21,6 +21,7 @@ use Illuminate\Support\Facades\Route;
 // });
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('about', [PageController::class, 'about'])->name('about');
+Route::get('privacy-policy', [PageController::class, 'privacy_policy'])->name('privacy_policy');
 
 
 
