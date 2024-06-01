@@ -6,6 +6,12 @@
     /* --secondary_color: var(--primary_color); */
 }
 
+
+.header-area .left:hover a,
+.header-area .left:hover i{
+    color: var(--text_color) !important;
+}
+
 /* Mobile Menu */
 .mean-container a.meanmenu-reveal span{background: var(--text_color);}
 
