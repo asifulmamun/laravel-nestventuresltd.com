@@ -111,10 +111,10 @@
                                 <option>Português</option>
                             </select>
                         </div> --}}
-                            <a class="consultant-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSdjPTkGtXlkLI_WG3Sd2sp135XObuunj_aw_3F4E8SCrtKsJA/viewform?usp=sf_link">
+                            <a target="_blank" class="consultant-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSdjPTkGtXlkLI_WG3Sd2sp135XObuunj_aw_3F4E8SCrtKsJA/viewform?usp=sf_link">
                                 Apply for Investment
                             </a>
-                            <a class="consultant-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSd-uAweHxyxWVwspVksTLp32pEt2QIJJ2lHzz3WtAQwOA6zcg/viewform?usp=sf_link">
+                            <a target="_blank" class="consultant-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSd-uAweHxyxWVwspVksTLp32pEt2QIJJ2lHzz3WtAQwOA6zcg/viewform?usp=sf_link">
                                 Apply as Investor
                             </a>
                         </div>
@@ -458,10 +458,10 @@
                             <a href="project-details.html">Fast Executions</a>
                         </h3>
                         <p>NEST specializes in the fast execution of investment support for SMEs and new entrepreneurs. With our streamlined processes and expert guidance, you can quickly secure the resources you need to fuel your business growth and stay ahead of the competition.</p>
-                        <a class="projects-btn" href="project-details.html">
+                        {{-- <a class="projects-btn" href="project-details.html">
                             Read More
                             <i class='bx bx-right-arrow-alt'></i>
-                        </a>
+                        </a> --}}
                     </div>
                 </div>
 
@@ -474,10 +474,10 @@
                             <a href="project-details.html">Guide & Support</a>
                         </h3>
                         <p>NEST provides tailored guidance and support for SMEs and new entrepreneurs, assisting you every step of the way in your investment journey. Our experienced professionals are committed to helping you achieve your business goals with personalized strategies and expert advice.</p>
-                        <a class="projects-btn" href="project-details.html">
+                        {{-- <a class="projects-btn" href="project-details.html">
                             Read More
                             <i class='bx bx-right-arrow-alt'></i>
-                        </a>
+                        </a> --}}
                     </div>
                 </div>
 
@@ -490,10 +490,10 @@
                             <a href="project-details.html">Financial Secure</a>
                         </h3>
                         <p>NEST provides robust investment support to SMEs and new entrepreneurs, prioritizing your financial security. With our personalized advice and strategic planning, we help you build a solid financial foundation for long-term success and peace of mind.</p>
-                        <a class="projects-btn" href="project-details.html">
+                        {{-- <a class="projects-btn" href="project-details.html">
                             Read More
                             <i class='bx bx-right-arrow-alt'></i>
-                        </a>
+                        </a> --}}
                     </div>
                 </div>
 
@@ -506,10 +506,10 @@
                             <a href="project-details.html">Refinancing</a>
                         </h3>
                         <p>NEST specializes in providing refinancing support for SMEs and new entrepreneurs. Our dedicated team helps you restructure existing debt, improving cash flow and financial stability so you can focus on expanding your business with greater confidence.</p>
-                        <a class="projects-btn" href="project-details.html">
+                        {{-- <a class="projects-btn" href="project-details.html">
                             Read More
                             <i class='bx bx-right-arrow-alt'></i>
-                        </a>
+                        </a> --}}
                     </div>
                 </div>
 
@@ -652,10 +652,10 @@
                                 <p>After disbursement, NEST continues to monitor the investment, providing ongoing support and guidance to ensure the business achieves its growth objectives and meets the agreed-upon milestones.</p>
                             </li>
                         </ul>
-                        <a class="common-btn two" href="#">
+                        {{-- <a class="common-btn two" href="#">
                             Learn More
                             <span></span>
-                        </a>
+                        </a> --}}
                     </div>
                 </div>
 
@@ -674,8 +674,8 @@
                 </div>
                 <h2>Are You Ready? Book Appointment Now</h2>
                 <p>Get your Quote or Call <a href="tel:+8809696232337">(096) 96232337</a>, <a href="tel:+8801913511188">(880) 1913 511 188</a></p>
-                <a class="common-btn" href="#">Apply as Investor<span></span></a>
-                <a class="common-btn" href="#">Apply for Investment<span></span></a>
+                <a target="_blank" class="common-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSd-uAweHxyxWVwspVksTLp32pEt2QIJJ2lHzz3WtAQwOA6zcg/viewform?usp=sf_link">Apply as Investor<span></span></a>
+                <a target="_blank" class="common-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSdjPTkGtXlkLI_WG3Sd2sp135XObuunj_aw_3F4E8SCrtKsJA/viewform?usp=sf_link">Apply for Investment<span></span></a>
             </div>
         </div>
     </div>
