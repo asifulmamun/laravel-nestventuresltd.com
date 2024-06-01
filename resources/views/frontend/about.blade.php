@@ -234,8 +234,8 @@
                     </ul>
                 </div>
                 <div class="bottom">
-                    <h3>Keten Moris</h3>
-                    <span>CEO of Company</span>
+                    <h3>Afsana Jahan Nipa</h3>
+                    <span>Chairman</span>
                     <img src="assets/img/team-shape1.png" alt="Shape">
                 </div>
             </div>
@@ -267,8 +267,8 @@
                     </ul>
                 </div>
                 <div class="bottom">
-                    <h3>Digo Mera</h3>
-                    <span>Manager</span>
+                    <h3>H. M. Arifur Rahman</h3>
+                    <span>Managing Director</span>
                     <img src="assets/img/team-shape1.png" alt="Shape">
                 </div>
             </div>
@@ -300,8 +300,8 @@
                     </ul>
                 </div>
                 <div class="bottom">
-                    <h3>Mackob Testa</h3>
-                    <span>Consultant</span>
+                    <h3>Syeada Ummul Oara</h3>
+                    <span>Director</span>
                     <img src="assets/img/team-shape1.png" alt="Shape">
                 </div>
             </div>
@@ -333,8 +333,8 @@
                     </ul>
                 </div>
                 <div class="bottom">
-                    <h3>Tom Henry</h3>
-                    <span>Engineer</span>
+                    <h3>Afria Jahan Sinha</h3>
+                    <span>Director</span>
                     <img src="assets/img/team-shape1.png" alt="Shape">
                 </div>
             </div>
@@ -366,8 +366,8 @@
                     </ul>
                 </div>
                 <div class="bottom">
-                    <h3>Jac Jacson</h3>
-                    <span>Engineer</span>
+                    <h3>Md. Masud Rana</h3>
+                    <span>Creative Designer</span>
                     <img src="assets/img/team-shape1.png" alt="Shape">
                 </div>
             </div>
@@ -399,8 +399,8 @@
                     </ul>
                 </div>
                 <div class="bottom">
-                    <h3>Micheal Smith</h3>
-                    <span>Staff</span>
+                    <h3>Md. Sajib Howlader</h3>
+                    <span>Technical Head</span>
                     <img src="assets/img/team-shape1.png" alt="Shape">
                 </div>
             </div>
