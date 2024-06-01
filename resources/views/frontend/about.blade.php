@@ -146,8 +146,8 @@
     <div class="container">
         <div class="book-content">
             <div class="book-shape">
-                <img src="https://templates.envytheme.com/finon/default/assets/img/book-shape1.png" alt="Shape">
-                <img src="https://templates.envytheme.com/finon/default/assets/img/book-shape2.png" alt="Shape">
+                <img src="assets/img/book-shape1.png" alt="Shape">
+                <img src="assets/img/book-shape2.png" alt="Shape">
             </div>
             <h2>Are You Ready? Book Appointment Now</h2>
             <p>Get your Quote or Call <a href="tel:080569899563">(080) 569 899 563</a></p>
@@ -198,7 +198,7 @@
                 <div class="bottom">
                     <h3>Keten Moris</h3>
                     <span>CEO of Company</span>
-                    <img src="https://templates.envytheme.com/finon/default/assets/img/team/team-shape1.png" alt="Shape">
+                    <img src="assets/img/team-shape1.png" alt="Shape">
                 </div>
             </div>
 
@@ -231,7 +231,7 @@
                 <div class="bottom">
                     <h3>Digo Mera</h3>
                     <span>Manager</span>
-                    <img src="https://templates.envytheme.com/finon/default/assets/img/team/team-shape1.png" alt="Shape">
+                    <img src="assets/img/team-shape1.png" alt="Shape">
                 </div>
             </div>
 
@@ -264,7 +264,7 @@
                 <div class="bottom">
                     <h3>Mackob Testa</h3>
                     <span>Consultant</span>
-                    <img src="https://templates.envytheme.com/finon/default/assets/img/team/team-shape1.png" alt="Shape">
+                    <img src="assets/img/team-shape1.png" alt="Shape">
                 </div>
             </div>
 
@@ -297,7 +297,7 @@
                 <div class="bottom">
                     <h3>Tom Henry</h3>
                     <span>Engineer</span>
-                    <img src="https://templates.envytheme.com/finon/default/assets/img/team/team-shape1.png" alt="Shape">
+                    <img src="assets/img/team-shape1.png" alt="Shape">
                 </div>
             </div>
 
@@ -330,7 +330,7 @@
                 <div class="bottom">
                     <h3>Jac Jacson</h3>
                     <span>Engineer</span>
-                    <img src="https://templates.envytheme.com/finon/default/assets/img/team/team-shape1.png" alt="Shape">
+                    <img src="assets/img/team-shape1.png" alt="Shape">
                 </div>
             </div>
 
@@ -363,7 +363,7 @@
                 <div class="bottom">
                     <h3>Micheal Smith</h3>
                     <span>Staff</span>
-                    <img src="https://templates.envytheme.com/finon/default/assets/img/team/team-shape1.png" alt="Shape">
+                    <img src="assets/img/team-shape1.png" alt="Shape">
                 </div>
             </div>
 
@@ -378,8 +378,8 @@
 
         <div class="plan-content">
             <div class="plan-shape">
-                <img src="https://templates.envytheme.com/finon/default/assets/img/plan-shape1.png" alt="Shape">
-                <img src="https://templates.envytheme.com/finon/default/assets/img/plan-shape2.png" alt="Shape">
+                <img src="assets/img/plan-shape1.png" alt="Shape">
+                <img src="assets/img/plan-shape2.png" alt="Shape">
             </div>
             <div class="section-title">
                 <h2>We Have Experience For Financial Planning</h2>
@@ -463,7 +463,7 @@
             <div class="col-lg-6">
                 <div class="faq-img">
                     <img src="https://templates.envytheme.com/finon/default/assets/img/faq-main.png" alt="FAQ">
-                    <img src="https://templates.envytheme.com/finon/default/assets/img/faq-shape.png" alt="Shape">
+                    <img src="assets/img/faq-shape.png" alt="Shape">
                 </div>
             </div>
 
