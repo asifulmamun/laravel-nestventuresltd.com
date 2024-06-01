@@ -134,11 +134,9 @@
                     <div class="d-table-cell">
                         <div class="container">
                             <div class="banner-content">
-                                <span>Your Financial Status Is Good Hands</span>
-                                <h1>Financial Assistance With True Purpose</h1>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. ipsum suspendisse ultrices gravida.
-                                    Risus commodo </p>
+                                <span>Your Partner in Entrepreneurial Success</span>
+                                <h1>Innovate, Invest, and Grow with NEST</h1>
+                                <p>At NEST, we empower entrepreneurs to reach their goals with comprehensive training, expert consultancy, strategic networking, and valuable investment opportunities. Partner with us to transform your vision into reality and elevate your business to new heights.</p>
                                 <div class="banner-btn-area">
                                     <a class="common-btn two" href="contact.html">
                                         Contact Us
