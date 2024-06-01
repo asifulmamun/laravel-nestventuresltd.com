@@ -19,22 +19,24 @@ use Illuminate\Support\Facades\Route;
 // Route::get('/', function () {
 //     return view('welcome');
 // });
+// Route::get('/phpinfo', function () {
+//     // Check if DOMDocument class exists
+//     if (class_exists('DOMDocument')) {
+//         echo "DOMDocument is available.<br>";
+//     } else {
+//         echo "DOMDocument is NOT available.<br>";
+//     }
+
+//     // Display phpinfo
+//     phpinfo();
+// });
+
+
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('about', [PageController::class, 'about'])->name('about');
 Route::get('privacy-policy', [PageController::class, 'privacy_policy'])->name('privacy_policy');
 
 
-Route::get('/phpinfo', function () {
-    // Check if DOMDocument class exists
-    if (class_exists('DOMDocument')) {
-        echo "DOMDocument is available.<br>";
-    } else {
-        echo "DOMDocument is NOT available.<br>";
-    }
-
-    // Display phpinfo
-    phpinfo();
-});
 
 
 
