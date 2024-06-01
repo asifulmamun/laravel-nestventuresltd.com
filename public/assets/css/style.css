@@ -1128,7 +1128,7 @@ ul {
 /*-- Works --*/
 .works-area {
   background-color: #f9f9f9;
-  background-image: url("https://templates.envytheme.com/finon/default/assets/img/works-bg.png");
+  background-image: url("./../img/works-bg.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
