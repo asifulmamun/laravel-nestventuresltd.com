@@ -1,5 +1,6 @@
 <x-frontend-layout>
-    <x-slot name="title">Nest Ventures Ltd</x-slot>
+    <x-slot name="title">About - Nest Ventures Ltd</x-slot>
+    
 
     <!-- Banner -->
     <div class="banner-area-two">
@@ -730,6 +731,5 @@
         </div>
     </div>
     <!-- End Logo -->
-
 
 </x-frontend-layout>
