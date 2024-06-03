@@ -24,7 +24,7 @@
 <!-- End Page Title -->
 
 
-<div class="book-area ptb-100">
+<div class="nest_page ptb-100">
     <div class="container">
         <h1>Privacy Policy</h1>
         <p><strong>Effective Date:</strong> 2024-01-24</p>
@@ -100,5 +100,44 @@
 </div>
 <!-- End Book -->
 
+@push('internal_css')
+<style>
+    .nest_page{
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 20px;
+        /* background-color: #f4f4f4; */
+        background-color: #fff;
+    }
+
+    .nest_page h1 {
+        color: #333;
+    }
+    .nest_page h2 {
+        color: #555;
+    }
+    .nest_page p {
+        color: #666;
+    }
+    .nest_page ul {
+        list-style: none;
+        padding: 0;
+    }
+    .nest_page ul li {
+        background: #fff;
+        margin-bottom: 10px;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .nest_page a {
+        color: #007BFF;
+        text-decoration: none;
+    }
+    .nest_page a:hover {
+        text-decoration: underline;
+    }
+</style>
+@endpush
 
 </x-frontend-layout>

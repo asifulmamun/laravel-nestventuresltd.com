@@ -75,26 +75,27 @@
                             <li>
                                 <i class="flaticon-workflow"></i>
                                 <h3>
-                                    <span class="odometer" data-count="462">00</span>
+                                    <span class="odometer" data-count="15">00</span>
                                 </h3>
-                                <p>Successful Projects</p>
+                                <p>Projects</p>
                             </li>
                             <li>
                                 <i class="flaticon-project"></i>
                                 <h3>
-                                    <span class="odometer" data-count="362">00</span>
+                                    <span class="odometer" data-count="10000000">00</span>
                                 </h3>
-                                <p>Running Projects</p>
+                                <p>Financed</p>
                             </li>
                             <li>
                                 <i class="flaticon-team"></i>
                                 <h3>
-                                    <span class="odometer" data-count="562">00</span>
+                                    <span class="odometer" data-count="20">00</span>
                                 </h3>
                                 <p>Skilled Members</p>
                             </li>
                         </ul>
                     </div>
+                    @push('internal_css')<style>.bottom h3{font-size:1.8rem !important;}</style>@endpush
                 </div>
             </div>
 

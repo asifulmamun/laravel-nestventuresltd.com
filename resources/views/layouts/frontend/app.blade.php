@@ -59,7 +59,7 @@
                     <ul>
                         <li>
                             <i class='bx bx-location-plus'></i>
-                            <a href="#">House 10, Main Road, Block C, Banasree, Rampura, Dhaka 1219</a>
+                            <a href="#">House 10, Main Road, Block C, Banasree, Rampura, Dhaka-1219</a>
                         </li>
                         <li>
                             <i class='bx bx-mail-send'></i>
@@ -221,6 +221,12 @@
                                 <a href="blog.html">Blog</a>
                             </li>
                             <li>
+                                <a href="{{ route('return_refund') }}">Return and Refund Policy</a>
+                            </li>
+                            <li>
+                                <a href="{{ route('terms_condition') }}">Terms & Conditions</a>
+                            </li>
+                            <li>
                                 <a href="{{ route('privacy_policy') }}">Privacy Policy</a>
                             </li>
                         </ul>
@@ -253,22 +259,28 @@
                         <h3>What We Do</h3>
                         <ul>
                             <li>
-                                <a href="about.html">Financial Advice</a>
+                                <a href="about.html">Financial Support & Consultancy</a>
                             </li>
                             <li>
-                                <a href="services.html">Planning Strategies</a>
+                                <a href="services.html">Mentorship & Guidance</a>
                             </li>
                             <li>
-                                <a href="projects.html">Investment Trending</a>
+                                <a href="projects.html">Business Plan & Strategy</a>
                             </li>
                             <li>
-                                <a href="faq.html">Wealth Commitment</a>
+                                <a href="faq.html">Marketing & Branding Assistance</a>
                             </li>
                             <li>
-                                <a href="blog.html">Our Services</a>
+                                <a href="blog.html">Networking Opportunities</a>
                             </li>
                             <li>
-                                <a href="privacy-policy.html">States Element</a>
+                                <a href="privacy-policy.html">Technology Support</a>
+                            </li>
+                            <li>
+                                <a href="privacy-policy.html">Legal Support</a>
+                            </li>
+                            <li>
+                                <a href="privacy-policy.html">Emotional Support</a>
                             </li>
                         </ul>
                     </div>

@@ -35,6 +35,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('about', [PageController::class, 'about'])->name('about');
 Route::get('privacy-policy', [PageController::class, 'privacy_policy'])->name('privacy_policy');
+Route::get('return-refund', [PageController::class, 'return_refund'])->name('return_refund');
+Route::get('terms-condition', [PageController::class, 'terms_condition'])->name('terms_condition');
 
 
 
