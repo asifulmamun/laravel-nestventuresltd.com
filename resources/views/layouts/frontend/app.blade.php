@@ -209,18 +209,6 @@
                                 <a href="{{ route('about') }}">About</a>
                             </li>
                             <li>
-                                <a href="services.html">Services</a>
-                            </li>
-                            <li>
-                                <a href="projects.html">Projects</a>
-                            </li>
-                            <li>
-                                <a href="faq.html">FAQ</a>
-                            </li>
-                            <li>
-                                <a href="blog.html">Blog</a>
-                            </li>
-                            <li>
                                 <a href="{{ route('return_refund') }}">Return and Refund Policy</a>
                             </li>
                             <li>
