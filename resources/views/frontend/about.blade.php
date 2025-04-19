@@ -191,7 +191,7 @@
                 <img src="assets/img/book-shape2.png" alt="Shape">
             </div>
             <h2>Are You Ready? Book Appointment Now</h2>
-            <p>Get your Quote or Call <a href="tel:+8809696232337">(096) 96232337</a>, <a href="tel:+8801913511188">(880) 1913 511 188</a></p>
+            <p>Get your Quote or Call <a href="tel:++8801966050506">(+880) 1966 050 506</a></p>
             <a target="_blank" class="common-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSd-uAweHxyxWVwspVksTLp32pEt2QIJJ2lHzz3WtAQwOA6zcg/viewform?usp=sf_link">Apply as Investor<span></span></a>
             <a target="_blank" class="common-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSdjPTkGtXlkLI_WG3Sd2sp135XObuunj_aw_3F4E8SCrtKsJA/viewform?usp=sf_link">Apply for Investment<span></span></a>
         </div>
@@ -200,7 +200,7 @@
 <!-- End Book -->
 
 <!-- Team -->
-<section class="team-area pb-70">
+{{-- <section class="team-area pb-70">
     <div class="container">
         <div class="section-title">
             <span class="sub-title">Expert Team</span>
@@ -408,7 +408,7 @@
 
         </div>
     </div>
-</section>
+</section> --}}
 <!-- End Team -->
 
 <!-- Plan -->
@@ -456,7 +456,7 @@
 <!-- End Plan -->
 
 <!-- FAQ -->
-<section class="faq-area pt-100 pb-70">
+{{-- <section class="faq-area pt-100 pb-70">
     <div class="container">
         <div class="row align-items-center">
 
@@ -513,7 +513,7 @@
 
         </div>
     </div>
-</section>
+</section> --}}
 <!-- End FAQ -->
 
 </x-frontend-layout>

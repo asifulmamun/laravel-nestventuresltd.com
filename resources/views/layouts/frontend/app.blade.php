@@ -126,7 +126,7 @@
                         <li class="nav-item"><a href="#" class="nav-link">Services</a></li>
                         <li class="nav-item"><a href="#" class="nav-link">Projects</a></li>
                         <li class="nav-item"><a href="#" class="nav-link">Blog</a></li>
-                        <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
+                        <li class="nav-item"><a href="#footerContact" class="nav-link">Contact</a></li>
                         {{-- <li class="nav-item">
                         <a href="#" class="nav-link dropdown-toggle">Blog <i class="bx bx-chevron-down"></i></a>
                         <ul class="dropdown-menu">
@@ -166,23 +166,21 @@
 @yield('content')
 
 <!-- Footer -->
-<footer class="footer-area two pt-100 pb-70">
+<footer id="footerContact" class="footer-area two pt-100 pb-70">
     <div class="container">
         <div class="row">
-
             <div class="col-sm-6 col-lg-4">
                 <div class="footer-item">
                     <div class="footer-logo">
                         <a class="logo" href="index.html">
                             <img src="assets/img/logo-nestventuresltd.png" alt="Logo">
                         </a>
-                        <p>At NEST, we empower entrepreneurs to reach their goals with comprehensive training, expert consultancy, strategic networking, and valuable investment opportunities. Partner with us to transform your vision into reality and elevate your business to new heights.p>
+                        <p>At NEST, we empower entrepreneurs to reach their goals with comprehensive training, expert consultancy, strategic networking, and valuable investment opportunities. Partner with us to transform your vision into reality and elevate your business to new heights.
                         <ul>
                             <li>
                                 <i class='bx bx-phone-call'></i>
                                 <span>Phone:</span>
-                                <a href="tel:+8809696232337">(880) 9696 232 337</a>
-                                <a href="tel:+8809696232337">(880) 1913 511 188</a>
+                                <a href="tel:+8801966050506">(+880) 1966 050 506</a>
                             </li>
                             <li>
                                 <i class='bx bx-mail-send'></i>

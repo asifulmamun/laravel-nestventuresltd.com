@@ -455,7 +455,7 @@
             <div class="d-table-cell">
                 <div class="video-item">
                     <div class="video-wrap">
-                        <a href="https://www.youtube.com/watch?v=0O2aH4XLbto" class="popup-youtube">
+                        <a href="https://www.youtube.com/watch?v=DJQ5r8eGlHI" class="popup-youtube">
                             <i class='bx bx-play'></i>
                         </a>
                     </div>
@@ -548,7 +548,7 @@
                     <img src="assets/img/book-shape4.png" alt="Shape">
                 </div>
                 <h2>Are You Ready? Book Appointment Now</h2>
-                <p>Get your Quote or Call <a href="tel:+8809696232337">(096) 96232337</a>, <a href="tel:+8801913511188">(880) 1913 511 188</a></p>
+                <p>Get your Quote or Call <a href="tel:+8801966050506">(+880) 1966 050 506</a></p>
                 <a target="_blank" class="common-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSd-uAweHxyxWVwspVksTLp32pEt2QIJJ2lHzz3WtAQwOA6zcg/viewform?usp=sf_link">Apply as Investor<span></span></a>
                 <a target="_blank" class="common-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSdjPTkGtXlkLI_WG3Sd2sp135XObuunj_aw_3F4E8SCrtKsJA/viewform?usp=sf_link">Apply for Investment<span></span></a>
             </div>
@@ -703,7 +703,7 @@
     </section>--}}
 
     <!-- Logo -->
-    <div class="logo-area ptb-100">
+    {{-- <div class="logo-area ptb-100">
         <div class="container">
             <div class="logo-slider owl-theme owl-carousel">
 
@@ -729,7 +729,7 @@
 
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- End Logo -->
 
 
