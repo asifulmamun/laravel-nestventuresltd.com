@@ -224,7 +224,7 @@
                 <div class="footer-item">
                     <h3>Newsletter</h3>
                     <div class="footer-newsletter">
-                        <p>Accusamus et iusto odio quas molestias except.</p>
+                        <p>Subscribe to our mailing list.</p>
                         <form class="newsletter-form" data-toggle="validator">
                             <input type="email" class="form-control" placeholder="Enter email address"
                                 name="EMAIL" required autocomplete="off">
