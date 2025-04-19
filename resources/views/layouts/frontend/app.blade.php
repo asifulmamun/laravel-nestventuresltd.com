@@ -59,7 +59,7 @@
                     <ul>
                         <li>
                             <i class='bx bx-location-plus'></i>
-                            <a href="#">House 10, Main Road, Block C, Banasree, Rampura, Dhaka-1219</a>
+                            <a href="#">House 60, Road 10, Block D, Banani, Dhaka 1219</a>
                         </li>
                         <li>
                             <i class='bx bx-mail-send'></i>
@@ -191,7 +191,7 @@
                             <li>
                                 <i class='bx bx-current-location'></i>
                                 <span>Address:</span>
-                                <a href="#">House 10, Main Road, Block C, Banasree, Rampura, Dhaka 1219</a>
+                                <a href="#">House 60, Road 10, Block D, Banani, Dhaka 1219</a>
                             </li>
                         </ul>
                     </div>
