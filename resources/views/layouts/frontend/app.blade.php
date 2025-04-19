@@ -159,6 +159,20 @@
             </nav>
         </div>
     </div>
+
+    <style>
+        .navbar-brand {
+            max-width: 80px;
+        }
+        @media only screen and (max-width: 991px) {
+            .navbar-brand {
+                max-width: 60px;
+            }
+            .mobile-nav .logo {
+                max-width: 60px;
+            }
+        }
+    </style>
 </div>
 <style>@media only screen and (max-width: 991px){.mobile-nav .logo{top:5px;}.side-nav{padding-bottom:4px;}}</style>
 <!-- End Navbar -->
@@ -276,6 +290,11 @@
         </div>
     </div>
 </footer>
+<style>
+    .footer-item .footer-logo .logo {
+        max-width: 40%;
+    }
+</style>
 <!-- End Footer -->
 
 <!-- Copyright -->

@@ -406,7 +406,7 @@
                         <div class="counter-item">
                             <i class="flaticon-project-management"></i>
                             <h3>
-                                <span class="odometer" data-count="10000000">00</span>
+                                <span class="odometer" data-count="30000000">00</span>+
                             </h3>
                             <p>Financed</p>
                         </div>
@@ -416,7 +416,7 @@
                         <div class="counter-item">
                             <i class="flaticon-like"></i>
                             <h3>
-                                <span class="odometer" data-count="15">00</span>
+                                <span class="odometer" data-count="53">00</span>
                             </h3>
                             <p>Projects</p>
                         </div>
@@ -436,7 +436,7 @@
                         <div class="counter-item right-border">
                             <i class="flaticon-team"></i>
                             <h3>
-                                <span class="odometer" data-count="20">00</span>
+                                <span class="odometer" data-count="20">00</span>+
                             </h3>
                             <p>Team Members</p>
                         </div>
